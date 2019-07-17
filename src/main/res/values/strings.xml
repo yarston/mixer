@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExplosiveMuxer</string>
+    <string name="mic">mic</string>
+    <string name="vid">vid</string>
+    <string name="mp3">mp3</string>
+    <string name="share">share</string>
+    <string name="stop">stop</string>
+    <string name="start">start</string>
+    <string name="status_stopped">status: stopped</string>
+    <string name="status_rec">status: recording</string>
+    <string name="status_fail">status: fail to create muxer</string>
+    <string name="staus_ready">status: ready to play</string>
+</resources>
